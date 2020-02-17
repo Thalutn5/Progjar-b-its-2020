@@ -24,5 +24,5 @@ while True:
 	# print("sending",repr(isi))
 	# isi = fileakhir.read(1024)
 	fileakhir.close()
-# Clean up the connection
+# Clean up the connection 
 	connection.close()
