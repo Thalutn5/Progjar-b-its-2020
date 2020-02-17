@@ -28,4 +28,4 @@ try:
         # print ("received", data.decode())
 finally:
     print ('closing socket')
-    sock.close()
+    sock.close() 
