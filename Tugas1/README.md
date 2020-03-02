@@ -1,6 +1,7 @@
 <h1>Tugas 1</h1>
 
 Dibawah ini merupakan dokumentasi program server.py di 3 port yang berbeda (31000,31001,31002)
+
 Dengan menggunakan port 31000 
 <img src="Foto/serverclient31000.JPG" >
 Dengan menggunakan port 31001 
