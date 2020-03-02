@@ -13,6 +13,7 @@ Untuk ini merupakan dokumentasi program tugas1a
 
 Sebelum menjalankan program tersebut belum adanya file yang tergenerate
 <img src="Foto/tugas1a sebelum.JPG" >
+
 Jalankan program server.py dan client.py
 <img src="Foto/tugas1a terminal.JPG" >
 Sesudah menjalankan program tersebut maka muncullah file yang baru saja tergenerate
@@ -22,6 +23,7 @@ Untuk ini merupakan dokumentasi program tugas1b
 
 Sebelum menjalankan program tersebut belum adanya file yang tergenerate
 <img src="Foto/tugas1b sebelum.JPG" >
+
 Jalankan program server.py dan client.py
 <img src="Foto/tugas1b terminal.JPG" >
 Sesudah menjalankan program tersebut maka muncullah file yang baru saja tergenerate
