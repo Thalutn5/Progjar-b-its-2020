@@ -1,8 +1,8 @@
 import socket
 import os
 
-TARGET_IP = "127.0.0.1"
-TARGET_PORT = 5005
+TARGET_IP = "192.168.1.10"
+TARGET_PORT = 5006
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
@@ -17,4 +17,3 @@ for x in k:
    sock.sendto(k_bytes, (TARGET_IP, TARGET_PORT))
    terkirim = terkirim + 1
    print(k_bytes,f"terkirim {terkirim} of {ukuran} ")
-
