@@ -17,10 +17,10 @@ def download_gambar(url=None, nama=None):
     content_type = ff.headers['Content-Type']
     logging.warning(content_type)
     if (content_type in list(tipe.keys())):
-        namafile = os.path.basename(url)
+        namafile = 'Foto/'+nama
         ekstensi = tipe[content_type]
         logging.warning(f"writing {nama}.{ekstensi}")
-        fp = open(f"{nama}.{ekstensi}","wb")
+        fp = open(f"{namafile}.{ekstensi}","wb")
         fp.write(ff.content)
         fp.close()
     else:
