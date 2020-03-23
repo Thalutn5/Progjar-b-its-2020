@@ -12,20 +12,20 @@ Format : command *spasi* parameter *spasi* parameter
 
 a. Meletakkan File 
    Berguna untuk menambahkan file ke dalam folder stock
-   Request : addfile
+   Request : addingfile
    Parameter : namafile *spasi* isi dari file
    Response : berhasil -> "File Berhasil Ditambahkan"
               gagal -> "ERROR"
 
 b. Mengambil File
    Berguna untuk mengambil file berdasarkan nama file yang ada pada folder stock
-   Request : getfile
+   Request : gettingfile
    Parameter : [namafile yang ingin diambil]
    Response: file ter download pada folder tempat script berada
 
 c. Melihat List File
    Berguna untuk melihat list file yang ada di dalam folder stock
-   Request : listfile
+   Request : listingfile
    Parameter: -
    Response: list file yang ada dalam folder stock
 
