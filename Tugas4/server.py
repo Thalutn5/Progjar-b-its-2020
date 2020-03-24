@@ -5,7 +5,7 @@ import logging
 import time
 import sys
 
-from machine import Machine
+from person_machine import Machine
 
 pm = Machine()
 
