@@ -17,7 +17,7 @@ Screenshot terminal setelah dijalankan
 Screenshot pada folder setelah dijalankan client_get.py, dimana akan tergenerate file baru note.txt
 <img src="Dokumentasi/getsetelahdijalankan.JPG" >
 <h2>Melihat List File</h2>
-Screenshot terminal setelah dijalankan client_list.py
+Screenshot terminal setelah dijalankan client_list.py, file tersebut merupakan file yang berada pada folder stock
 <img src="Dokumentasi/listfileterminal.JPG" >
 <h2>Server Responses</h2>
 <img src="Dokumentasi/serverresponeses.JPG" >
