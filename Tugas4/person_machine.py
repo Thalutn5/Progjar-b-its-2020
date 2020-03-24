@@ -21,7 +21,7 @@ b. Mengambil File
    Berguna untuk mengambil file berdasarkan nama file yang ada pada folder stock
    Request : gettingfile
    Parameter : [namafile yang ingin diambil]
-   Response: file terdownload pada diretori utama
+   Response: file terdownload pada direktori utama
 
 c. Melihat List File
    Berguna untuk melihat list file yang ada di dalam folder stock
