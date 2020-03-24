@@ -7,6 +7,8 @@
 <h2>Kondisi Awal</h2>
 file text.txt akan digunakan untuk meletakkan file, sementara file note.txt digunakan untuk mengambil file
 <img src="Dokumentasi/awal.jpg" >
+<h2>Cara Melakukan Request</h2>
+Jika ingin melakukan sebuah request, kita harus mengedit namafile terlebih dahulu pada file client(client_add.py atau client_get.py) sesuai dengan nama file yang kita inginkan.
 <h2>Meletakan File</h2>
 Screenshot terminal setelah dijalankan
 <img src="Dokumentasi/addfileterminal.JPG" >
