@@ -5,6 +5,7 @@
 <h2>Server</h2>
 <img src="Dokumentasi/server.JPG" >
 <h2>Kondisi Awal</h2>
+file text.txt akan digunakan untuk meletakkan file, sementara file note.txt digunakan untuk mengambil file
 <img src="Dokumentasi/awal.jpg" >
 <h2>Meletakan File</h2>
 Screenshot terminal setelah dijalankan
