@@ -9,12 +9,12 @@
 <h2>Meletakan File</h2>
 Screenshot terminal setelah dijalankan
 <img src="Dokumentasi/addfileterminal.JPG" >
-Screenshot pada folder setelah dijalankan client_add.py
+Screenshot pada folder setelah dijalankan client_add.py, dimana akan tergenerate file baru bernama text.txt pada folder stock
 <img src="Dokumentasi/addsetelahdijalankan.JPG" >
 <h2>Mengambil File</h2>
 Screenshot terminal setelah dijalankan
 <img src="Dokumentasi/getfileterminal.JPG" >
-Screenshot pada folder setelah dijalankan client_get.py
+Screenshot pada folder setelah dijalankan client_get.py, dimana akan tergenerate file baru note.txt
 <img src="Dokumentasi/getsetelahdijalankan.JPG" >
 <h2>Melihat List File</h2>
 Screenshot terminal setelah dijalankan client_list.py
