@@ -21,13 +21,13 @@ b. Mengambil File
    Berguna untuk mengambil file berdasarkan nama file yang ada pada folder stock
    Request : gettingfile
    Parameter : [namafile yang ingin diambil]
-   Response: file ter download pada folder tempat script berada
+   Response: file terdownload pada diretori utama
 
 c. Melihat List File
    Berguna untuk melihat list file yang ada di dalam folder stock
    Request : listingfile
    Parameter: -
-   Response: list file yang ada dalam folder stock
+   Response: list file yang ada di dalam folder stock
 
 d. Jika command tidak dikenali akan merespon dengan ERRCMD
 
