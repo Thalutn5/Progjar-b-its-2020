@@ -21,3 +21,12 @@ Screenshot terminal setelah dijalankan client_list.py, file tersebut merupakan f
 <img src="Dokumentasi/listfileterminal.JPG" >
 <h2>Server Responses</h2>
 <img src="Dokumentasi/serverresponeses.JPG" >
+<h2>Penggunaan JSON</h2>
+Untuk JSON saya menggunakannya pada file person_machine.JPG yang berguna untuk menampilkan list file
+<img src="Dokumentasi/JSON.JPG" >
+<h2>Client</h2>
+<ol>
+  <li>File client untuk addfile <a href="https://github.com/Thalutn5/progjar-b-its-2020/blob/master/Tugas4/client_add.py">client_add.py</a> </li>
+  <li>File client untuk getfile <a href="https://github.com/Thalutn5/progjar-b-its-2020/blob/master/Tugas4/client_get.py">client_get.py</a> </li>
+  <li>File client untuk listfile <a href="https://github.com/Thalutn5/progjar-b-its-2020/blob/master/Tugas4/client_list.py">client_list.py</a> </li>
+</ol>
