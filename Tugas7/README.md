@@ -28,3 +28,4 @@
 <img src="Dokumentasi/100-100.JPG" >
 
 <h2>Hasil Performance test</h2>
+<img src="Dokumentasi/tes.JPG" >
