@@ -5,4 +5,4 @@
 <img src="Dokumentasi/50.JPG" >
 <h2>Benchmark dengan menggunakan request sebanyak 100</h2>
 <img src="Dokumentasi/100.JPG" >
-<h2>lalala</h2>
+<h2>Hasil Performance Test</h2>
