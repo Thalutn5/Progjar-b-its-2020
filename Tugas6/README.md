@@ -6,7 +6,7 @@
 <img src="Dokumentasi/postman.JPG" >
 <h2>Response dari server</h2>
 <img src="Dokumentasi/hasilpostman.JPG" >
-<h2>Menjalaskan Request Pada Browser</h2>
+<h2>Menjalankan Request Pada Browser</h2>
 <img src="Dokumentasi/browser.JPG" >
 <h2>Response dari server</h2>
 <img src="Dokumentasi/hasilbrowser.JPG" >
